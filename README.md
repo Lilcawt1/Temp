@@ -1,1 +1,1 @@
-vless://2c02ce21-562b-4a78-b9ba-0ee0527037e6@95.163.153.212:443?security=reality&encryption=none&pbk=hdlEc-tozJq9h_0XWyVwZGRzYaL3Oek2hivIDqbHmDM&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.st.ozone.ru&sid=cc1bd1b1#_12944cdb-%F0%9F%87%A6%F0%9F%87%B9%20Austria
+.
